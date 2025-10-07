@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Kyng Logistics Guyana</title>
+  <style>
+    body{font-family:system-ui,Arial,sans-serif;margin:0}
+    header,footer{padding:16px 24px;background:#111;color:#fff}
+    main{padding:32px 24px;max-width:900px;margin:auto}
+    a.btn{display:inline-block;padding:10px 16px;border:1px solid #111;text-decoration:none}
+  </style>
+</head><body>
+  <header><strong>Kyng Logistics Guyana</strong> — Licensed Customs Brokerage</header>
+  <main>
+    <h1>Fast, compliant clearance—end to end.</h1>
+    <p>HS classification • CIF/FOB valuation • GRA/ASYCUDA filings • Air & Ocean.</p>
+    <p><a class="btn" href="mailto:sheikadilsamad@gmail.com">Email Us</a> &nbsp; 
+       <a class="btn" href="tel:+5926487688">+592 648 7688</a></p>
+  </main>
+  <footer>© <script>document.write(new Date().getFullYear())</script> Kyng Logistics Guyana</footer>
+</body></html>
